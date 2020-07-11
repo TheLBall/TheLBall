@@ -1,4 +1,7 @@
-### Hi there 👋
+# Welcome to my GitHub!
+### I'm TheLBall. 
+
+
 
 <!--
 **TheLBall/TheLBall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
