@@ -1,8 +1,7 @@
 # Welcome to my GitHub!
 ### I'm TheLBall. 
 
-You can tell when I started using GitHub for Peroxaan.
-![Contributions](https://github.com/TheLBall/TheLBall/raw/master/image.png)
+GitHub wants me to put stuff like pronouns here but honestly it'll probably be a waste since everything here is just code. If you really want that stuff, check my Twitter.
 
 <!--
 **TheLBall/TheLBall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
